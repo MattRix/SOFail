@@ -13,3 +13,7 @@ MonoBehaviour:
   m_Name: Arthur
   m_EditorClassIdentifier: 
   age: 30
+  bestFriend: Merlin
+  hitPoints: 150
+  levels: 010000000200000003000000
+  baseDamage: 33
